@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ujwalnevase2008-design/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/ujwalnevase2008-design/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ujwalnevase2008-design/DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/ujwalnevase2008-design/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/ujwalnevase2008-design/DSA/tree/master/0485-max-consecutive-ones) |
 | [0812-largest-triangle-area](https://github.com/ujwalnevase2008-design/DSA/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/ujwalnevase2008-design/DSA/tree/master/0976-largest-perimeter-triangle) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ujwalnevase2008-design/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0976-largest-perimeter-triangle](https://github.com/ujwalnevase2008-design/DSA/tree/master/0976-largest-perimeter-triangle) |
 ## Quicksort
 |  |
@@ -44,9 +46,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ujwalnevase2008-design/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/ujwalnevase2008-design/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ujwalnevase2008-design/DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/ujwalnevase2008-design/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [2396-strictly-palindromic-number](https://github.com/ujwalnevase2008-design/DSA/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/ujwalnevase2008-design/DSA/tree/master/2396-strictly-palindromic-number) |
+## Hash Table
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ujwalnevase2008-design/DSA/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/ujwalnevase2008-design/DSA/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
