@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ujwalnevase2008-design/DSA/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/ujwalnevase2008-design/DSA/tree/master/0485-max-consecutive-ones) |
 | [0812-largest-triangle-area](https://github.com/ujwalnevase2008-design/DSA/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/ujwalnevase2008-design/DSA/tree/master/0976-largest-perimeter-triangle) |
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ujwalnevase2008-design/DSA/tree/master/0189-rotate-array) |
 | [0812-largest-triangle-area](https://github.com/ujwalnevase2008-design/DSA/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/ujwalnevase2008-design/DSA/tree/master/0976-largest-perimeter-triangle) |
 | [2396-strictly-palindromic-number](https://github.com/ujwalnevase2008-design/DSA/tree/master/2396-strictly-palindromic-number) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ujwalnevase2008-design/DSA/tree/master/0189-rotate-array) |
 | [2396-strictly-palindromic-number](https://github.com/ujwalnevase2008-design/DSA/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
