@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ujwalnevase2008-design/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0073-set-matrix-zeroes](https://github.com/ujwalnevase2008-design/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ujwalnevase2008-design/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ujwalnevase2008-design/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ujwalnevase2008-design/DSA/tree/master/0189-rotate-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/ujwalnevase2008-design/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/ujwalnevase2008-design/DSA/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/ujwalnevase2008-design/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ujwalnevase2008-design/DSA/tree/master/0410-split-array-largest-sum) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/ujwalnevase2008-design/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
