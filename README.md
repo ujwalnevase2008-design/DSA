@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ujwalnevase2008-design/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/ujwalnevase2008-design/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ujwalnevase2008-design/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ujwalnevase2008-design/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ujwalnevase2008-design/DSA/tree/master/0169-majority-element) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ujwalnevase2008-design/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ujwalnevase2008-design/DSA/tree/master/0189-rotate-array) |
 | [0812-largest-triangle-area](https://github.com/ujwalnevase2008-design/DSA/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/ujwalnevase2008-design/DSA/tree/master/0976-largest-perimeter-triangle) |
@@ -93,5 +95,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ujwalnevase2008-design/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ujwalnevase2008-design/DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
