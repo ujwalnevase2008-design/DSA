@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ujwalnevase2008-design/DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/ujwalnevase2008-design/DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/ujwalnevase2008-design/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/ujwalnevase2008-design/DSA/tree/master/0645-set-mismatch) |
 | [0812-largest-triangle-area](https://github.com/ujwalnevase2008-design/DSA/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/ujwalnevase2008-design/DSA/tree/master/0976-largest-perimeter-triangle) |
 ## Math
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ujwalnevase2008-design/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ujwalnevase2008-design/DSA/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ujwalnevase2008-design/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0645-set-mismatch](https://github.com/ujwalnevase2008-design/DSA/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/ujwalnevase2008-design/DSA/tree/master/0976-largest-perimeter-triangle) |
 ## Quicksort
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ujwalnevase2008-design/DSA/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/ujwalnevase2008-design/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/ujwalnevase2008-design/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/ujwalnevase2008-design/DSA/tree/master/0645-set-mismatch) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ujwalnevase2008-design/DSA/tree/master/0054-spiral-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/ujwalnevase2008-design/DSA/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
