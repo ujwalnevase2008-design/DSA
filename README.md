@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ujwalnevase2008-design/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/ujwalnevase2008-design/DSA/tree/master/0645-set-mismatch) |
 | [0812-largest-triangle-area](https://github.com/ujwalnevase2008-design/DSA/tree/master/0812-largest-triangle-area) |
+| [0875-koko-eating-bananas](https://github.com/ujwalnevase2008-design/DSA/tree/master/0875-koko-eating-bananas) |
 | [0976-largest-perimeter-triangle](https://github.com/ujwalnevase2008-design/DSA/tree/master/0976-largest-perimeter-triangle) |
 ## Math
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ujwalnevase2008-design/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/ujwalnevase2008-design/DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/ujwalnevase2008-design/DSA/tree/master/0493-reverse-pairs) |
+| [0875-koko-eating-bananas](https://github.com/ujwalnevase2008-design/DSA/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
