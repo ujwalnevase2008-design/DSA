@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ujwalnevase2008-design/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/ujwalnevase2008-design/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ujwalnevase2008-design/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ujwalnevase2008-design/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -155,4 +156,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/ujwalnevase2008-design/DSA/tree/master/0493-reverse-pairs) |
+## String
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/ujwalnevase2008-design/DSA/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/ujwalnevase2008-design/DSA/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/ujwalnevase2008-design/DSA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
